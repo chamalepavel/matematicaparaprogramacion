@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "db-connector": "^1.0.0"
+    "database-connector": "^2.0.1"
   }
 }
